@@ -1,0 +1,45 @@
+ANKIT KUMAR
+Course : M.E., Computer Science, 2025
+Email : h20230076@pilani.bits-pilani.ac.in
+Mobile : 6238309093
+CGPA : 6.36
+
+
+ACADEMIC DETAILS:
+COURSE   SPECIALIZATION   INSTITUTE/COLLEGE   BOARD/UNIVERSITY    SCORE   YEAR
+UG Information Technology School of Engineering, CUSAT Cochin University of Science and Technology 8.31CGPA 2022
+CLASS XII PHYSICS, CHEMISTRY, MATH
+P.C.P Inter College, Sohsarai,Nalanda Bihar School Examination Board (BSEB) 65.2 %  2016
+CLASS X SCIENCE Bari Pahari R High School Biharsharif  Bihar School Examination Board (BSEB) 72.2 %  2014
+PROJECTS
+
+Brain Tumor Segmentation Using Autoencoder - Research Practice Jan 2024 - May 2024
+Aim:
+In this research practice, medical image analysis aims to identify and delineate a brain tumor's regions within an MRI or CT scan. The segmentation process involves separating the tumor area from the surrounding healthy tissue, which is crucial for diagnosis, treatment planning, and monitoring of the tumor progression. Variational Auto-encoder(VAE) is used to adjust the parameters of the encoder and decoder, as well as the training time, to minimize reconstruction error.
+Deep Learning: Aug 2024 - Dec2024
+• Model training , Fine tuning of pretrained model like ResNet18, Word generation using RNN, Flower classification without using of CNN.
+
+Enthusiastic and detail-oriented Computer Science graduate student with a solid foundation in software development, algorithms, and problem-solving. Proficient in with hands-on experience through academic projects. Eager to apply technical skills in real-world scenarios and contribute to building scalable, efficient software solutions. A quick learner with a strong desire to grow and succeed in a  dynamic software engineering environment.
+
+Subjects / Electives:
+
+Data structure, Design Algorithm Analysis, Operating System, Advance Operating System, Data Communication Network, Machine Learning,Advance Computer Network
+C, C++, Python, and Java 
+Technical Proficiency C Programming, C++ Language, Python3, Machine Learning, Core Java, NumPy, Pandas, Deep Learning
+EXTRA CURRICULAR ACTIVITIES:
+Participating and playing cricket at the inter-branch level at BITS Pilani in the 2nd semester cricket 
+Playing badmintoon,Chess
+
+CERTIFICATIONS
+CERTIFICATION CERTIFYING AUTHORITY
+Ankit Kumar Bihar Government 
+TEST SCORES:
+TEST NAME DATE OF EXAM SCORE
+BITS Higher Degree May 26, 2023 Score:133/300 
+GATE 2023 Feb 3, 2023 95.81 Percentile
+VOLUNTEER EXPERIENCE
+CUSAT - Role: Volunter in Job Fair | Cause: Education Aug 2019 - Aug 2019
+I did volunter in CUSAT, for two day for successful and smooth organize of Job Fair Cochin University Science and Technology
+LANGUAGES KNOWN
+Hindi,English
+
